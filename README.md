@@ -11,6 +11,7 @@ This project predicts NFL touchdown scorers using logistic regression. It combin
 - `TdPredictionProbabilities.R`: Code for predicting player's scoring probability based on stats and converting into expected betting odds.
 - `NFL Touchdown Odds-RecTracker.csv`: Google Sheet export of tracked bets on running backs the model found value in.
 - `NFL Touchdown Odds-RushTracker.csv`: Google Sheet export of tracked bets on wide receivers the model found value in.
+- `NFLTouchdownPredictionsReport.pdf` : Written report documenting the entire project and methodology as well as results and takeaways.
 
 ## Data Sources
 
